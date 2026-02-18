@@ -1,0 +1,71 @@
+---
+title: 'Data Story #1'
+author: "Walker Briggs"
+date: "2026-02-15"
+output: html_document
+---
+&nbsp;
+&nbsp;
+
+## The Energy Giants: How the United States, China, and India shape the global energy transition
+
+### How do the world's largest CO2 emitters compare in renewable energy adoption?
+
+&nbsp;
+
+### United Nations Sustainable Development Goals:
+- SDG #7: Affordable and clean energy
+- SDG #9: Industry, innovation and infrastructure
+- SDG #11: Sustainable cities and communities
+- SDG #13: Climate action 
+
+### Datasets that will be used for this project:
+
+- Carbon emissions from *the Global Carbon Project* 
+- Renewable energy from *IRENA*
+- Levelized cost of energy from *Our World in Data*
+- Gapminder from *Gapminder*
+
+&nbsp;
+
+#### **The Global Carbon Project**
+The Global Carbon Project is an innitiative that began in 2001. The goal of the
+GCP is to quantify the levels of global carbon emissions while researching the 
+causes. The GCP has brought together a variety of emissions experts, 
+environmental scientists, and economists from all over the world to tackle this
+issue. One of the main functions of the GCP is to better understand the 
+*Carbon Cycle*.
+
+&nbsp;
+
+#### **IRENA: International Renewable Energy Agency**
+IRENA is a private company that specializes in the creation of detailed
+statistics regarding renewable energy capacity. IRENA releases renewable
+power-generation capacity data and statistics annually in March. Member
+countries are encouraged to participate and provide data.
+
+&nbsp;
+
+#### **Our World in Data**
+Our World in Data was created in 2011 by Max Roser, an economist at
+Oxford University. This idea started as a personal side project for Max
+Roser but quickly became one of the leading statistical databases in the 
+world. There is a wide variety of statistical datasets ranging from local
+issues to more global issues. Our World in Data has data from almost every
+single country, making this dataset very efficient to use.
+
+&nbsp;
+
+#### **Gapminder**
+Gapminder is an efficient and simple dataset that our class learned to use 
+very early on. Gapminder was originally sourced from the Gapminder 
+Foundation and has become a very popular dataset.
+
+&nbsp;
+
+## Exploring The Data
+
+
+
+
+
